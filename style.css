@@ -1,0 +1,22 @@
+#clickableAwesomeFont {
+    cursor: pointer
+}
+.card{
+    padding:20px;
+    
+}
+.hello{
+    margin:20
+}
+.icon-red {
+  color: black;
+  text-shadow: 0 0 10px blue;
+}
+.icon-blue {
+    color: red;
+    text-shadow: 0 0 10px blue;
+  }
+  .icon-yellow {
+    color: blue;
+    text-shadow: 0 0 10px blue;
+  }
